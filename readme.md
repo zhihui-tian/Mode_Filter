@@ -21,6 +21,13 @@ Code for replicate paper
 
 ## Analysis Results
 ### Lattice pinning analysis
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; max-width: 100%;">
+  <img src="docs/materials/normal_distribution_poly0.png" width="250" />
+  <img src="docs/materials/normal_distribution_poly4.png" width="250" />
+  <img src="docs/materials/normal_distribution_poly-7.png" width="250" />
+  <img src="docs/materials/normal_distribution_poly-3.png" width="250" />
+</div>
+
 ### von Neumann-Mullins relation analysis
 
 ## License
