@@ -1,6 +1,6 @@
 # A Mode Filter Approach to Grain Growth: Improved Performance in Lattice Pinning and von Neumann/Mullins Relations[link]()
 
-Foobar is a Python library for dealing with word pluralization.
+Code for replicate paper
 
 ## Usage
 
