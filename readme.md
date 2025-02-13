@@ -7,7 +7,7 @@ Code for replicate paper
 2. code in inclination_distribution and vnmr folder is to analyze and visualize the generated result
 
 
-## Demos
+## Simulation Results
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="docs/materials/gaussian.gif" width="260" />
   <img src="docs/materials/reshaped_gaussian.gif" width="260" />
@@ -19,7 +19,7 @@ Code for replicate paper
 </p>
 <br>
 
-
+## Analysis Results
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
