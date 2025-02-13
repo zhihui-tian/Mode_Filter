@@ -8,11 +8,12 @@ Code for replicate paper
 
 
 ## Demos
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="docs/materials/gaussian.gif" width="360" />
   <img src="docs/materials/reshaped_gaussian.gif" width="360" />
   <img src="docs/materials/uniform.gif" width="360" />
 </div>
+
 <p align="middle">
     <em >Gaussian sampling(left), reshaped Gaussian sampling(mid) and Uniform sampling (right).</em>
 </p>
