@@ -9,9 +9,9 @@ Code for replicate paper
 
 ## Demos
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="docs/materials/gaussian.gif" width="300" />
-  <img src="docs/materials/reshaped_gaussian.gif" width="300" />
-  <img src="docs/materials/uniform.gif" width="300" />
+  <img src="docs/materials/gaussian.gif" width="260" />
+  <img src="docs/materials/reshaped_gaussian.gif" width="260" />
+  <img src="docs/materials/uniform.gif" width="260" />
 </div>
 
 <p align="middle">
