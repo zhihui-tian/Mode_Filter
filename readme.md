@@ -20,6 +20,8 @@ Code for replicate paper
 <br>
 
 ## Analysis Results
+### Lattice pinning analysis
+### von Neumann-Mullins relation analysis
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
