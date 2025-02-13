@@ -29,6 +29,9 @@ Code for replicate paper
 </div>
 
 ### von Neumann-Mullins relation analysis
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; max-width: 100%;">
+  <img src="docs/materials/figure6_2.png" width="800" />
+</div>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
