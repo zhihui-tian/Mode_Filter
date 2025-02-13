@@ -4,7 +4,7 @@ Code for replicate paper
 
 ## Usage
 1. code in mf_simulation is to create the MF simulation result
-2. code in inclination_distribution and vnmr folder is to analysis and visualize the generated result
+2. code in inclination_distribution and vnmr folder is to analyze and visualize the generated result
 
 
 ## Demos
