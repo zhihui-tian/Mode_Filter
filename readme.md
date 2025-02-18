@@ -1,7 +1,7 @@
-:fire: ***Join us for the development of Mode Filter! This project is under active development!***
+
 # A Mode Filter Approach to Grain Growth: Improved Performance in Lattice Pinning and von Neumann/Mullins Relations[link]()
 
-Code for replicate paper
+:fire: ***Join us for the development of Mode Filter! This project is under active development!***
 
 ## Usage
 1. code in mf_simulation folder is to create the MF simulation result
