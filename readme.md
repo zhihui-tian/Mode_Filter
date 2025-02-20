@@ -20,7 +20,7 @@
 </p>
 <br>
 
-## Analysis Results
+## Analysis Results/Plots in Paper
 ### Lattice pinning analysis
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; max-width: 100%;">
   <img src="docs/materials/normal_distribution_poly0.png" width="200" />
